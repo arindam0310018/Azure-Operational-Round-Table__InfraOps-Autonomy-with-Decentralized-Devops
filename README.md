@@ -1,3 +1,4 @@
+
 # Azure Operational Round Table with Kyle:-
 
 | __TOPIC NAME :-__ |
@@ -11,11 +12,14 @@
 | __#__ | __AGENDA__ |
 | --------- | --------- |
 | 1. | What is Decentralized Devops and why it is a growing requirement in every organisation ? |
-| 2. | Decentralized Devops and FOMO ? |
-| 3. | Self Service - Definition ? |
-| 4. | Can Self Service be achieved from Technology/Tooling alone ? |
-| 5. | Why Microsoft Azure Devops/Github/Github Actions and Hashicorp Terraform Product for Self Service ? |
-| 6. | Sneak Peek on Self Service ?  |
+| 2. | The direct realtionship of Decentralized Devops and FOMO (Fear of Missing out) ? |
+| 3. | Self Service - Theory of everything ? |
+| 4. | With Self Service, what Problems statements, are we resolving ? |
+| 5. | Can Self Service be achieved from Technology/Tooling alone ? |
+| 6. | Shifting from Project to Product Centric Model. |
+| 7. | Why Microsoft Azure Devops/Github/Github Actions and Hashicorp Terraform Product for Self Service ? |
+| 8. | Sneak Peek on Self Service. |
+| 9. | TOM - Target Operating Model. |
 
 In this roundtable with Kyle, I will not only showcase the Problem statements but also help you explore your options by presenting the approach with which we are trying to resolve. 
 Please note, I said "We are trying to" - This is a big change in an Organisation ecosystem and it will take years before anyone can draft a complete success story.
