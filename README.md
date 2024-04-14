@@ -1,5 +1,5 @@
 
-| ![image](https://github.com/arindam0310018/Azure-Operational-Round-Table__InfraOps-Autonomy-with-Decentralized-Devops/assets/29681063/3b0c1c2d-02e2-4ca6-9c0c-90c2ed27cfe4) | AZURE OPERATION ROUNDTABLE WITH KYLE |
+| ![image](https://github.com/arindam0310018/Azure-Operational-Round-Table__InfraOps-Autonomy-with-Decentralized-Devops/assets/29681063/3b0c1c2d-02e2-4ca6-9c0c-90c2ed27cfe4) | AZURE OPERATIONAL ROUNDTABLE WITH KYLE |
 | --------- | --------- |
 
 | __TOPIC NAME :-__ |
@@ -29,7 +29,7 @@ Please note, I said "We are trying to" - This is a big change in an Organisation
 | --------- |
 | In this Session, Audience is expected to learn why Decentralized Devops with Self Service is a growing need in every organisation and how Microsoft Azure Devops/Github/Github Actions and Hashicorp Terraform Product can help organisation to achieve the same. |
 
-| __TWEET TO SOCIALIZE YOUR TALK:-__ |
+| __TWEET TO SOCIALIZE OUR ROUNDTABLE:-__ |
 | --------- |
 | Decentralized Devops, Self Service, FOMO.... are real. Come join me in the roundtable discussion with Kyle to understand the concept and how it is applicable to real work. In this roundtable, I not only showcase the Problem statements but also help you explore your options by presenting the approach with which we are trying to resolve. |
 
