@@ -1,5 +1,6 @@
 
-# Azure Operational Round Table with Kyle:-
+| ![image](https://github.com/arindam0310018/Azure-Operational-Round-Table__InfraOps-Autonomy-with-Decentralized-Devops/assets/29681063/3b0c1c2d-02e2-4ca6-9c0c-90c2ed27cfe4) | AZURE OPERATION ROUNDTABLE WITH KYLE |
+| --------- | --------- |
 
 | __TOPIC NAME :-__ |
 | --------- |
