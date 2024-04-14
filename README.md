@@ -20,7 +20,8 @@
 | 6. | Shifting from Project to Product Centric Model. |
 | 7. | Why Microsoft Azure Devops/Github/Github Actions and Hashicorp Terraform Product for Self Service ? |
 | 8. | Sneak Peek on Self Service. |
-| 9. | TOM - Target Operating Model. |
+| 9. | Organisation Structure. |
+| 10. | TOM - Target Operating Model. |
 
 In this roundtable with Kyle, I will not only showcase the Problem statements but also help you explore your options by presenting the approach with which we are trying to resolve. 
 Please note, I said "We are trying to" - This is a big change in an Organisation ecosystem and it will take years before anyone can draft a complete success story.
