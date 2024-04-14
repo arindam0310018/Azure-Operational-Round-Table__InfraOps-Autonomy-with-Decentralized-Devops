@@ -1,2 +1,3 @@
-# Microsoft__Azure-Operational-Round-Table
-InfraOps Autonomy with Decentralized Devops - Roundtable with Kyle
+# Azure Operational Round Table with Kyle:-
+
+## Topic: InfraOps Autonomy with Decentralized Devops
